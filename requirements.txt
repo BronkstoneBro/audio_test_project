@@ -1,0 +1,17 @@
+certifi==2024.6.2             # Certificate authority package
+charset-normalizer==3.3.2     # Charset handling
+decorator==4.4.2              # Better function decorators
+idna==3.7                     # Internationalized Domain Names handling
+imageio==2.34.1               # Video and image processing
+imageio-ffmpeg==0.5.1         # ffmpeg plugin for imageio
+moviepy==1.0.3                # Video editing with Python
+numpy==1.26.4                 # Numerical computing with arrays
+pillow==10.3.0                # Python Imaging Library (PIL fork)
+proglog==0.1.10               # Progress bars and logging
+PyQt5==5.15.10                # Python bindings for Qt5
+PyQt5-Qt5==5.15.2             # Qt5 library for PyQt5
+PyQt5-sip==12.13.0            # SIP bindings for PyQt5
+requests==2.32.3              # HTTP library for Python
+setuptools==70.0.0            # Library for packaging Python projects
+tqdm==4.66.4                  # Progress bars
+urllib3==2.2.1                # HTTP client library

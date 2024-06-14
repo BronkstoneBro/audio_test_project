@@ -13,8 +13,8 @@ This project provides a simple GUI application to extract audio from video files
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/BronkstoneBro/audio_test_project.git
+    cd audio_test_project
     ```
 
 2. Create and activate a virtual environment:
